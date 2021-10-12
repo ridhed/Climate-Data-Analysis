@@ -11,7 +11,7 @@
 ![GitHub](https://img.shields.io/github/license/ridhed/Weather-Dataset-Analysis)
 
 <!-- Described the project in brief -->
-The data set loaded uses a 30-year mean between 1951 and 1980 to calculate a base temperature for that period, and then uses 5-year mean temperatures to calculate the difference between the 5-year mean and the 30-year mean for each year. The scatter plot shows the annual temperature differences.
+The data set loaded uses a 30-year mean between 1951 and 1980 to calculate a base temperature for that period, and then uses 5-year mean temperatures to calculate the difference between the 5-year mean and the 30-year mean for each year. The scatter plot shows the annual temperature differences. We have used Linear Regression Algorithm.
 
 # Table of contents
 
